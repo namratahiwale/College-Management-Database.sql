@@ -340,5 +340,5 @@ permission.pr_name AS Permission_Name from roles
 join permission 
 on roles.rol_id = permission.pr_rol_id;
 
--- 
+ 
 
